@@ -180,3 +180,25 @@ footer {
         display: flex;
     }
 }
+
+.square-logo {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.rounded-logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+    .nav-links.active {
+        display: flex;
+    }
+}
